@@ -1,4 +1,4 @@
-# Problem A
+# Problem: JavaScript Fundamentals
 
 In this exercise, you'll practice with fundamental JavaScript variables and syntax.
 

@@ -1,4 +1,4 @@
-# Problem B
+# Problem: JavaScript Fundamentals II
 
 In this exercise, you'll practice with with JavaScript functions, control structures, objects, and basic searching (a la [here](https://infx511.github.io/searching.html)). This problem will also exercise your algorithm design skills!
 
